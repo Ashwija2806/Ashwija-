@@ -1,0 +1,6 @@
+{
+  "name": "Stylo",
+  "description": "Stylo — Vibrant high-street fashion, footwear, kids, beauty, and home lifestyle marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
